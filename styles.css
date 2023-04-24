@@ -193,3 +193,10 @@
   input::placeholder, select {
     color: #333;
   }
+
+  #go-back {
+    margin-top: 20px;
+    font-size: 1rem;
+    font-weight: 800;
+  }
+  
